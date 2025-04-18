@@ -20,8 +20,10 @@
 
 ### 🧠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,pandas,numpy,javascript,html,css,php,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,html,css,php,mysql,git,github" />
 </p>
+
+
 
 ---
 
