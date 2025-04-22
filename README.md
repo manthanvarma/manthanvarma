@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Manthan Varma</h1>
-<h3 align="center">🚀 Data Scientist | 💻 Web Developer | 🧠 AI Enthusiast</h3>
+<h3 align="center">🚀 Data Aficionado | 💻 Web Developer | 🧠 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100px">
